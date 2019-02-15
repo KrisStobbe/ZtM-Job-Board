@@ -4094,5 +4094,22 @@ export const persons = [
          city: "Tel-Aviv",
          state: "",
          country: "Israel"}
-      }
+      },
+
+{
+    id: 295,
+    name: "Kristoffer Stobbe",
+    img: "https://avatars3.githubusercontent.com/u/17185126?s=460&v=4",
+    links: {
+      website: "https://www.facebook.com/kris.stobbe",
+      linkedin: "https://www.linkedin.com/in/krisstobbe/",
+      github: "https://github.com/KrisStobbe"
+    },
+    jobTitle: "Full-Stack Developer | JS Dev",
+    location: {
+      city: "Austin",
+      state: "Texas",
+      country: "USA"
+    }
+  },
 ];
